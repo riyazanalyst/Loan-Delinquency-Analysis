@@ -55,6 +55,8 @@ The dataset includes anonymized borrower records with:
 ---
 
 ## 📊 Screenshots
+1. Portfolio Overview
+<img width="1867" height="976" alt="Image" src="https://github.com/user-attachments/assets/bc504335-5fd6-4ec7-9df1-4c4caec6b7d8" />
 
 
 
