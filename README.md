@@ -56,7 +56,7 @@ The dataset includes anonymized borrower records with:
 
 ## 📊 Screenshots
 1. Portfolio Overview
-<img width="1867" height="976" alt="Image" src="https://github.com/user-attachments/assets/bc504335-5fd6-4ec7-9df1-4c4caec6b7d8" />
+<img width="1869" height="962" alt="Image" src="https://github.com/user-attachments/assets/b8bdb59f-150a-4738-a3f7-0e9b39fb0d85" />
 
 2. Delinquency Deep Dive
 <img width="1867" height="976" alt="Image" src="https://github.com/user-attachments/assets/94ccb373-4369-4e4b-af46-0db3922a23da" />
